@@ -1,2 +1,1 @@
-# openshift
-Hybrid cloud Training
+This the openshift repositatry which will clone to workstation
